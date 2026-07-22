@@ -15,7 +15,10 @@
 
 ---
 
-### 👋 About Me
+<details open>
+<summary><b>👋 About Me</b></summary>
+
+<br>
 
 ```yaml
 name: Liam
@@ -28,8 +31,14 @@ currently_exploring:
 philosophy: "Learn by building, ship when it feels right."
 ```
 
+</details>
+
 ---
-### 🧰 Tools & Tech (most still in practice)
+
+<details>
+<summary><b>🧰 Tools & Tech</b> <sub>(most still in practice)</sub></summary>
+
+<br>
 
 **Languages**
 <p align="left">
@@ -66,13 +75,35 @@ philosophy: "Learn by building, ship when it feels right."
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="45" height="45"/>
 </p>
 
+</details>
+
 ---
 
-### 🚀 Projects
+<details>
+<summary><b>🧠 Skills & Interests</b></summary>
+
+<br>
+
+**Programming & Tech** — Python · Java · C++ · Swift · SQL · HTML · Software · ICT · Creative Problem Solving · learning PCB design · learning Sonic Pi
+
+**Writing & Creative** — Story Writing · Writing · Literacy · Creativity · Reading People
+
+**Other** — Mathematics · Afrikaans · Event Planning · Teamwork · Think Tank · Gaming · First Class Medical
+
+</details>
+
+---
+
+<details open>
+<summary><b>🚀 Projects</b></summary>
+
+<br>
 
 **[repotidy](https://github.com/reapersreaper/repotidy)** — a command-line tool that organizes loose files into folders by type. Dry-run preview, custom categories, and a one-command undo. Built with a tested core and CI.
 
 **[devscan](https://github.com/reapersreaper/devscan)** — a CLI that reports which developer tools are installed on a machine (languages, package managers, shells, and more) and exports the results as a table, JSON, or Markdown.
+
+</details>
 
 ---
 
