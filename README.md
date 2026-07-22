@@ -144,6 +144,6 @@ philosophy: "Learn by building, ship when it feels right."
 
 ---
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/reapersreaper/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=reapersreaper&label=Visitor%20count&color=0e75b6&style=flat" alt="Visitor count" />
 </div>
+
