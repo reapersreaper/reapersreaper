@@ -84,11 +84,39 @@ philosophy: "Learn by building, ship when it feels right."
 
 <br>
 
-**Programming & Tech** — Python · Java · C++ · Swift · SQL · HTML · Software · ICT · Creative Problem Solving · learning PCB design · learning Sonic Pi
+**Programming & Tech**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="28"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" height="28"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" height="28"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="swift" height="28"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" height="28"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="28"/>
+  <img src="https://img.shields.io/badge/Sonic%20Pi-00A1E4?style=for-the-badge&logo=sonicpi&logoColor=white" alt="sonic pi" height="28"/>
+  <img src="https://img.shields.io/badge/PCB%20Design-2E8B57?style=for-the-badge&logo=kicad&logoColor=white" alt="pcb design" height="28"/>
+  <img src="https://img.shields.io/badge/ICT-555555?style=for-the-badge&logo=googlecloud&logoColor=white" alt="ict" height="28"/>
+  <img src="https://img.shields.io/badge/Creative%20Problem%20Solving-8A2BE2?style=for-the-badge&logo=lightbulb&logoColor=white" alt="creative problem solving" height="28"/>
+</p>
 
-**Writing & Creative** — Story Writing · Writing · Literacy · Creativity · Reading People
+**Writing & Creative**
+<p align="left">
+  <img src="https://img.shields.io/badge/Story%20Writing-6D4C41?style=for-the-badge&logo=bookstack&logoColor=white" alt="story writing" height="28"/>
+  <img src="https://img.shields.io/badge/Writing-455A64?style=for-the-badge&logo=ghost&logoColor=white" alt="writing" height="28"/>
+  <img src="https://img.shields.io/badge/Literacy-795548?style=for-the-badge&logo=readthedocs&logoColor=white" alt="literacy" height="28"/>
+  <img src="https://img.shields.io/badge/Creativity-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" alt="creativity" height="28"/>
+  <img src="https://img.shields.io/badge/Reading%20People-9C27B0?style=for-the-badge&logo=simpleicons&logoColor=white" alt="reading people" height="28"/>
+</p>
 
-**Other** — Mathematics · Afrikaans · Event Planning · Teamwork · Think Tank · Gaming · First Class Medical
+**Other**
+<p align="left">
+  <img src="https://img.shields.io/badge/Mathematics-2196F3?style=for-the-badge&logo=wolfram&logoColor=white" alt="mathematics" height="28"/>
+  <img src="https://img.shields.io/badge/Afrikaans-007A4D?style=for-the-badge&logo=googletranslate&logoColor=white" alt="afrikaans" height="28"/>
+  <img src="https://img.shields.io/badge/Event%20Planning-E91E63?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="event planning" height="28"/>
+  <img src="https://img.shields.io/badge/Teamwork-00897B?style=for-the-badge&logo=slack&logoColor=white" alt="teamwork" height="28"/>
+  <img src="https://img.shields.io/badge/Think%20Tank-607D8B?style=for-the-badge&logo=brainly&logoColor=white" alt="think tank" height="28"/>
+  <img src="https://img.shields.io/badge/Gaming-6441A5?style=for-the-badge&logo=steam&logoColor=white" alt="gaming" height="28"/>
+  <img src="https://img.shields.io/badge/First%20Class%20Medical-D32F2F?style=for-the-badge&logo=redcross&logoColor=white" alt="first class medical" height="28"/>
+</p>
 
 </details>
 
