@@ -148,8 +148,3 @@ philosophy: "Learn by building, ship when it feels right."
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/liam-pursey-a504022b3">LinkedIn</a> ·
-  <a href="https://github.com/reapersreaper">GitHub</a> · Johannesburg, South Africa
-</p>
