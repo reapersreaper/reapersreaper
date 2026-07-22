@@ -118,7 +118,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 ---
 
 <details open>
-<summary><b>🚀 Projects</b></summary>
+<summary><b>🚀 Projects (first two I made)</b></summary>
 
 <br>
 
