@@ -26,7 +26,7 @@ currently_exploring:
   languages: [Rust, Python, "esoteric langs"]
   hardware: [circuit board design, 3D modeling]
   creative: [theming, music making, writing]
-philosophy: "Learn by building, ship when it feels right."
+philosophy: "make it, break it, fix it and remove breakpoints"
 ```
 
 </details>
