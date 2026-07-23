@@ -39,7 +39,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 <br>
 
 <details>
-**Languages** 
+<summary> <b> **Languages** </b> </summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
