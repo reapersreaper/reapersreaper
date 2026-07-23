@@ -38,7 +38,8 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 
 <br>
 
-<summary> **Languages** </summary>
+<details>
+**Languages** 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -53,7 +54,8 @@ philosophy: "make it, break it, fix it and remove breakpoints"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
-
+  </details>
+<details>
 **Esoteric**
 <p align="left">
   <img src="https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logoColor=white" alt="brainfuck" height="28"/>
@@ -63,19 +65,23 @@ philosophy: "make it, break it, fix it and remove breakpoints"
   <img src="https://img.shields.io/badge/Malbolge-1A1A1A?style=for-the-badge" alt="malbolge" height="28"/>
   <img src="https://img.shields.io/badge/INTERCAL-8B4513?style=for-the-badge" alt="intercal" height="28"/>
 </p>
-
+  </details>
+<details>
 **Web & Data**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="sql" width="45" height="45"/>
 </p>
+  </details>
+<details>
 
 **Hardware & Audio**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" alt="pcb design" width="45" height="45"/>
   <img src="https://img.shields.io/badge/Sonic%20Pi-00A1E4?style=for-the-badge&logo=sonicpi&logoColor=white" alt="sonic pi" height="28"/>
 </p>
-
+  </details>
+<details>
 **Editors & Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="45" height="45"/>
@@ -86,7 +92,8 @@ philosophy: "make it, break it, fix it and remove breakpoints"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="45" height="45"/>
 </p>
-
+  </details>
+<details>
 **Browsers** 
 <p>
   
@@ -103,6 +110,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 ![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
 
 </p>
+</details>
 </details>
 
 ---
