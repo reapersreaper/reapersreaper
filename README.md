@@ -39,7 +39,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 <br>
 
 <details>
-<summary> <b> **Languages** </b> </summary>
+<summary> <b> Languages </b> </summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -56,7 +56,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 </p>
   </details>
 <details>
-**Esoteric**
+<summary><b>Esoteric</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logoColor=white" alt="brainfuck" height="28"/>
   <img src="https://img.shields.io/badge/Befunge-6E4C9E?style=for-the-badge" alt="befunge" height="28"/>
@@ -67,7 +67,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 </p>
   </details>
 <details>
-**Web & Data**
+<summary><b>Web & Data </b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="sql" width="45" height="45"/>
@@ -75,14 +75,16 @@ philosophy: "make it, break it, fix it and remove breakpoints"
   </details>
 <details>
 
-**Hardware & Audio**
+<summary><b>Hardware & Audio</b></summary>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" alt="pcb design" width="45" height="45"/>
-  <img src="https://img.shields.io/badge/Sonic%20Pi-00A1E4?style=for-the-badge&logo=sonicpi&logoColor=white" alt="sonic pi" height="28"/>
+  
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+<img src="https://img.shields.io/badge/Sonic%20Pi-00A1E4?style=for-the-badge&logo=sonicpi&logoColor=white" alt="sonic pi" height="28"/>
+
 </p>
   </details>
 <details>
-**Editors & Tools**
+<summary><b>ditors & Tools</b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
@@ -94,7 +96,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 </p>
   </details>
 <details>
-**Browsers** 
+<summary><b>Browsers</b></summary>
 <p>
   
 ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
@@ -108,6 +110,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
+[![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser)](#)
 
 </p>
 </details>
@@ -119,16 +122,18 @@ philosophy: "make it, break it, fix it and remove breakpoints"
 <summary><b>🧠 Skills & Interests</b></summary>
 
 <br>
-
-**Creative & Writing**
+<details>
+<summary><b>Creative & Writing </b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Story%20Writing-6D4C41?style=for-the-badge&logo=bookstack&logoColor=white" alt="story writing" height="28"/>
   <img src="https://img.shields.io/badge/Writing-455A64?style=for-the-badge&logo=ghost&logoColor=white" alt="writing" height="28"/>
   <img src="https://img.shields.io/badge/Literacy-795548?style=for-the-badge&logo=readthedocs&logoColor=white" alt="literacy" height="28"/>
   <img src="https://img.shields.io/badge/Creativity-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" alt="creativity" height="28"/>
 </p>
-
-**Other**
+</details>
+<details>
+  
+<summary><b>Other</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Mathematics-2196F3?style=for-the-badge&logo=wolfram&logoColor=white" alt="mathematics" height="28"/>
   <img src="https://img.shields.io/badge/Afrikaans-007A4D?style=for-the-badge&logo=googletranslate&logoColor=white" alt="afrikaans" height="28"/>
@@ -136,7 +141,7 @@ philosophy: "make it, break it, fix it and remove breakpoints"
   <img src="https://img.shields.io/badge/Teamwork-00897B?style=for-the-badge&logo=slack&logoColor=white" alt="teamwork" height="28"/>
   <img src="https://img.shields.io/badge/Gaming-6441A5?style=for-the-badge&logo=steam&logoColor=white" alt="gaming" height="28"/>
 </p>
-
+</details>
 </details>
 
 ---
