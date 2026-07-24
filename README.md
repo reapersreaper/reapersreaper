@@ -206,3 +206,4 @@ philosophy: "make it, break it, fix it, remove the breakpoints"
 </p>
 
 <p align="center"><i>"make it, break it, fix it, remove the breakpoints"</i></p>
+<p><img src="https://visitor-badge.laobi.icu/badge?page_id=reapersreaper.reapersreaper" alt="Visitor count" /> </p>
