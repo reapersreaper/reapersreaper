@@ -8,7 +8,19 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=reapersreaper&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+<p align="center">
 
+  <a href="https://github.com/reapersreaper">
+
+    <img src="https://img.shields.io/badge/GitHub-reapersreaper-181717?style=for-the-badge&logo=github" />
+
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=reapersreaper&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+  <img src="https://img.shields.io/badge/Age-18-0e75b6?style=for-the-badge" alt="Age" />
+
+</p>
 <p align="center"><i>Tech &amp; AI Enthusiast · Writer &amp; World-builder · Johannesburg, South Africa 🇿🇦</i></p>
 
 ---
