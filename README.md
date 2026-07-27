@@ -31,7 +31,7 @@ started_coding: age 14
 building_with: [Python]
 still_learning: [Rust, Go, Ruby, "and everything below — all still in progress"]
 also_into: [circuit design, 3D modeling, music, writing]
-philosophy: "make it, break it, fix it, remove the breakpoints"
+philosophy: "make it, break it, fix it, break it, repeat it"
 ```
 
 - 🔭 Currently building small, well-tested CLI tools in Python
@@ -211,8 +211,6 @@ philosophy: "make it, break it, fix it, remove the breakpoints"
   </a>
 </p>
 
-<p align="center"><i>"make it, break it, fix it, remove the breakpoints"</i></p>
+<p align="center"><i>"make it, break it, fix it, break it, repeat"</i></p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=reapersreaper.reapersreaper" alt="Visitor count" />
-</p>
+
