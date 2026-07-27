@@ -31,7 +31,7 @@ started_coding: age 14
 building_with: [Python]
 still_learning: [Rust, Go, Ruby, "and everything below — all still in progress"]
 also_into: [circuit design, 3D modeling, music, writing]
-philosophy: "make it, break it, fix it, break it, repeat it"
+philosophy: "make it, break it, fix it, break it, repeat"
 ```
 
 - 🔭 Currently building small, well-tested CLI tools in Python
