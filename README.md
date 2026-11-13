@@ -169,22 +169,6 @@ philosophy: "make it, break it, fix it, break it, repeat"
 
 ---
 
-<details open>
-<summary><b>🚀 Projects</b></summary>
-
-<br>
-
-| Project | What it does | Tech | Status |
-|---|---|---|---|
-| **[repotidy](https://github.com/reapersreaper/repotidy)** | Organizes loose files into folders by type — dry-run preview, custom categories, one-command undo. Tested core + CI. | Python · MIT | ✅ Public |
-| **[devscan](https://github.com/reapersreaper/devscan)** | Reports which developer tools are installed (languages, package managers, shells) and exports as table, JSON, or Markdown. | Python · MIT | ✅ Public |
-
-> These are the first two tools I shipped — more on the way as I dig into Rust and Go.
-
-</details>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -212,5 +196,3 @@ philosophy: "make it, break it, fix it, break it, repeat"
 </p>
 
 <p align="center"><i>"make it, break it, fix it, break it, repeat"</i></p>
-
-
